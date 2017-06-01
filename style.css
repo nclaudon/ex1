@@ -30,26 +30,3 @@ a{
 	padding: 10px;
 	font-size: 0.8em;
 }
-/**
-**	Style des classes
-**/
-.titre{
-	color: navy;
-}
-
-.lien{
-	text-decoration: none;
-}
-.error{
-	border-color: red;
-}
-.email-msg{
-	background-color: red;
-	color: #fff;
-	display: none;
-	width: 300px;
-	text-align: center;
-	padding: 10px 0;
-	margin-top: 0;
-	border-radius: 5px;
-}
